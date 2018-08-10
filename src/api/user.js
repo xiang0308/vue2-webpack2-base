@@ -1,7 +1,3 @@
-/**
- * Created by chonglu.wang on 2017/3/7.
- */
-
 import Http from '../toolBus/Http'
 export default {
   login (name, pwd) {

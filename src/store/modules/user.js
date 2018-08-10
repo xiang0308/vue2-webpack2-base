@@ -1,6 +1,3 @@
-/**
- * Created by chonglu.wang on 2017/3/7.
- */
 import * as types from '../mutation-types'
 // initial state
 const state = {}

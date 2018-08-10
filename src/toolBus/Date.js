@@ -1,7 +1,4 @@
 /**
- * Created by chonglu.wang on 2017/2/14.
- */
-/**
  * 时间处理接口封装
  */
 export default {

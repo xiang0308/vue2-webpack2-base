@@ -1,6 +1,4 @@
-/**
- * Created by chonglu.wang on 2017/3/7.
- */
+
 import * as types from './mutation-types'
 
 export const sameAction1 = ({ commit }, param1) => {

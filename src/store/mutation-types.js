@@ -1,6 +1,3 @@
-/**
- * Created by chonglu.wang on 2017/3/7.
- */
 
 //SOME_MUTATION
 export const SOME_MUTATION_ONE = 'SOME_MUTATION_ONE'

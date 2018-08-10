@@ -1,7 +1,4 @@
 /**
- * Created by chonglu.wang on 2017/2/14.
- */
-/**
  * 服务器访问基础接口封装
  */
 import Config from '../config/index'
